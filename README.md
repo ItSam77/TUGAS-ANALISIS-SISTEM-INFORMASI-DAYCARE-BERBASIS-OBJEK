@@ -7,13 +7,13 @@ tidur siang, dan mengganti popok. Menawarkan aktivitas bermain dan belajar yang 
 usia anak untuk mendukung perkembangan kognitif, fisik, sosial, dan emosional. Memastikan
 lingkungan yang aman dan terlindungi bagi anak-anak. Menyediakan makanan dan minuman yang
 sehat dan bergizi. Menjaga kebersihan lingkungan dan menerapkan praktik kesehatan yang baik
-untuk mencegah penyebaran penyakit.
-Tujuan Tugas
+untuk mencegah penyebaran penyakit. <br>
+Tujuan Tugas <br>
 1. Menerapkan teknik analisis objek seperti use case, class diagram, dan ERD untuk
 memodelkan sistem informasi daycare
 2. Mengidentifikasi kebutuhan fungsional sistem
-3. Merancang solusi sistem informasi sesuai dengan kebutuhan daycare.
-Deskripsi Tugas
+3. Merancang solusi sistem informasi sesuai dengan kebutuhan daycare. <br>
+Deskripsi Tugas <br>
 1. Secara mendasar, kebutuhan daycare adalah pengelolaan data anak, orang tua/wali, staf,
 jadwal, kehadiran, dan laporan.
 2. Identifikasi aktor yang terlibat
